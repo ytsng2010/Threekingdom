@@ -30,5 +30,7 @@ while running:
     pygame.display.update()
 
 # pygame git step 1 
+# pygame git step 2
+
 
 pygame.quit()
