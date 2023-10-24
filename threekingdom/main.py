@@ -29,6 +29,6 @@ while running:
     screen.fill((WHITE))
     pygame.display.update()
 
-# pygame
+# pygame git step 1 
 
 pygame.quit()
